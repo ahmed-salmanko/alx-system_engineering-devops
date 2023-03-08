@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdit -p welcome/to/school
+mkdit -p welcome welcome/to welcome/to/school
