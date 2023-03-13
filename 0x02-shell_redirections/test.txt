@@ -1,9 +1,10 @@
-Elizabeth it is in vain you say
-Love not"—thou sayest it in so sweet a way:
-In vain those words from thee or L.E.L.
-Zantippe's talents had enforced so well:
-Ah! if that language from thy heart arise,
-Breath it less gently forth—and veil thine eyes.
-Endymion, recollect, when Luna tried
-To cure his love—was cured of all beside—
-His follie—pride—and passion—for he died.
+in24.inetnebr.com       -       807249601       GET     /shuttle/missions/sts-68/news/sts-68-mcc-05.txt 200     1839
+uplherc.upl.com -       807249607       GET     /       304     0
+uplherc.upl.com -       807249608       GET     /images/ksclogo-medium.gif      304     0
+uplherc.upl.com -       807249608       GET     /images/MOSAIC-logosmall.gif    304     0
+uplherc.upl.com -       807249608       GET     /images/USA-logosmall.gif       304     0
+ix-esc-ca2-07.ix.netcom.com     -       807249609       GET     /images/launch-logo.gif 200     1713
+uplherc.upl.com -       807249610       GET     /images/WORLD-logosmall.gif     304     0
+slppp6.intermind.net    -       807249610       GET     /history/skylab/skylab.html     200     1687
+piweba4y.prodigy.com    -       807249610       GET     /images/launchmedium.gif        200     11853
+julien@ubuntu:/tmp/0x02$ ./103-the_biggest_fan < nasa_19950801.tsv 
